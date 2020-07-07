@@ -1,0 +1,16 @@
+GSM	GSE	GPL	Condition	Experimental_Strategy	Tissue	Cell_Type	Gender	Age	Treatment	Ethnicity
+GSM569471	GSE23117	GPL570	SjS	Expression	Salivary gland					
+GSM569472	GSE23117	GPL570	SjS	Expression	Salivary gland					
+GSM569473	GSE23117	GPL570	Healthy	Expression	Salivary gland					
+GSM569474	GSE23117	GPL570	Healthy	Expression	Salivary gland					
+GSM569475	GSE23117	GPL570	Healthy	Expression	Salivary gland					
+GSM569476	GSE23117	GPL570	Healthy	Expression	Salivary gland					
+GSM569477	GSE23117	GPL570	Healthy	Expression	Salivary gland					
+GSM569478	GSE23117	GPL570	SjS	Expression	Salivary gland					
+GSM569479	GSE23117	GPL570	SjS	Expression	Salivary gland					
+GSM569480	GSE23117	GPL570	SjS	Expression	Salivary gland					
+GSM569481	GSE23117	GPL570	SjS	Expression	Salivary gland					
+GSM569482	GSE23117	GPL570	SjS	Expression	Salivary gland					
+GSM569483	GSE23117	GPL570	SjS	Expression	Salivary gland					
+GSM569484	GSE23117	GPL570	SjS	Expression	Salivary gland					
+GSM569485	GSE23117	GPL570	SjS	Expression	Salivary gland

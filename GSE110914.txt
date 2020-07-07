@@ -1,0 +1,22 @@
+GSM	GSE	GPL	Condition	Experimental_Strategy	Tissue	Cell_Type	Gender	Age	Treatment	Ethnicity
+GSM3018809	GSE110914	GPL16791	Healthy	Expression	Peripheral blood	Neutrophils		11-20		
+GSM3018810	GSE110914	GPL16791	Healthy	Expression	Peripheral blood	Neutrophils		11-20		
+GSM3018817	GSE110914	GPL16791	Healthy	Expression	Peripheral blood	Neutrophils		11-20		
+GSM3018818	GSE110914	GPL16791	Healthy	Expression	Peripheral blood	Neutrophils		11-20		
+GSM3018819	GSE110914	GPL16791	Healthy	Expression	Peripheral blood	Neutrophils		11-20		
+GSM3018820	GSE110914	GPL16791	Healthy	Expression	Peripheral blood	Neutrophils		11-20		
+GSM3018821	GSE110914	GPL16791	Healthy	Expression	Peripheral blood	Neutrophils		11-20		
+GSM3018822	GSE110914	GPL16791	Healthy	Expression	Peripheral blood	Neutrophils		11-20		
+GSM3018823	GSE110914	GPL16791	T1D	Expression	Peripheral blood	Neutrophils		1-10		
+GSM3018833	GSE110914	GPL16791	T1D	Expression	Peripheral blood	Neutrophils		1-10		
+GSM3018834	GSE110914	GPL16791	T1D	Expression	Peripheral blood	Neutrophils		1-10		
+GSM3018839	GSE110914	GPL16791	T1D	Expression	Peripheral blood	Neutrophils		11-20		
+GSM3018840	GSE110914	GPL16791	T1D	Expression	Peripheral blood	Neutrophils		1-10		
+GSM3018841	GSE110914	GPL16791	Healthy	Expression	Peripheral blood	Neutrophils		11-20		
+GSM3018842	GSE110914	GPL16791	Healthy	Expression	Peripheral blood	Neutrophils		11-20		
+GSM3018843	GSE110914	GPL16791	Healthy	Expression	Peripheral blood	Neutrophils		11-20		
+GSM3018844	GSE110914	GPL16791	Healthy	Expression	Peripheral blood	Neutrophils		11-20		
+GSM3018845	GSE110914	GPL16791	Healthy	Expression	Peripheral blood	Neutrophils		11-20		
+GSM3018846	GSE110914	GPL16791	Healthy	Expression	Peripheral blood	Neutrophils		11-20		
+GSM3018847	GSE110914	GPL16791	Healthy	Expression	Peripheral blood	Neutrophils		11-20		
+GSM3018848	GSE110914	GPL16791	Healthy	Expression	Peripheral blood	Neutrophils		11-20

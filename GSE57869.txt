@@ -1,0 +1,13 @@
+GSM	GSE	GPL	Condition	Experimental_Strategy	Tissue	Cell_Type	Gender	Age	Treatment	Ethnicity
+GSM1395332	GSE57869	GPL8490	SLE	Methylation	Whole blood		Female			
+GSM1395333	GSE57869	GPL8490	SLE	Methylation	Whole blood		Female			
+GSM1395334	GSE57869	GPL8490	SLE	Methylation	Whole blood		Female			
+GSM1395335	GSE57869	GPL8490	SLE	Methylation	Whole blood		Female			
+GSM1395336	GSE57869	GPL8490	SLE	Methylation	Whole blood		Female			
+GSM1395337	GSE57869	GPL8490	SLE	Methylation	Whole blood		Female			
+GSM1395338	GSE57869	GPL8490	Healthy	Methylation	Whole blood		Female			
+GSM1395339	GSE57869	GPL8490	Healthy	Methylation	Whole blood		Female			
+GSM1395340	GSE57869	GPL8490	Healthy	Methylation	Whole blood		Female			
+GSM1395341	GSE57869	GPL8490	Healthy	Methylation	Whole blood		Female			
+GSM1395342	GSE57869	GPL8490	Healthy	Methylation	Whole blood		Female			
+GSM1395343	GSE57869	GPL8490	Healthy	Methylation	Whole blood		Female
